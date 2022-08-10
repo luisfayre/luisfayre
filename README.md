@@ -1,4 +1,4 @@
-<h2>I'm Luis Alcudia!   | Mobile and Web Developer 💻</h2>
+<h2>I'm Luis Alcudia | Mobile and Web Developer 💻</h2>
 
 <img align='right' src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="350">
 
