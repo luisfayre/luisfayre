@@ -10,7 +10,7 @@ My name is Luis Alcudia, but I'm known as @luisfyare everywhere online.
 I'm a Computer Systems Engineer
 
 
-### <img src="https://i.stack.imgur.com/EQ1QT.gif" width="50"> A little more about me...  
+### <img src="https://i.stack.imgur.com/EQ1QT.gif" width="20"> A little more about me...  
 
 ```javascript
 const luisfayre = {
